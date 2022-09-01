@@ -8,3 +8,8 @@ It's built using the following python libraries:
 * PyYAML
 * requests
 * streamlit
+
+## Article
+
+[Creating a Web Application to extract topics from audio with Python](https://towardsdatascience.com/creating-a-web-application-to-extract-topics-from-audio-with-python-21c3f541f3ca?sk=0e7a46d1e4223e66c8bd5f11138c2763)
+
